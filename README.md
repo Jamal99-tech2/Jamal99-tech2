@@ -1,16 +1,27 @@
 ## Hi there 👋
 
 <!--
-**Jamal99-tech2/Jamal99-tech2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Jamal
+I’m currently a learner in the ALX Front-End Development Program, building my skills in HTML, CSS, JavaScript, and React.
 
-Here are some ideas to get you started:
+💻 About Me:
+I started learning front-end development to become a professional front-end developer. I’m passionate about creating responsive, user-friendly, and modern web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎯 My Vision:
+To grow as a front-end developer and build web applications that are accessible, interactive, and solve real user problems.
+
+🛠 Skills (Currently Learning):
+
+HTML5 & CSS3
+
+JavaScript (ES6+)
+
+Responsive Design & Flexbox/Grid
+
+React (Basics)
+
+Git & GitHub
+
+
+💡 Note: I’m currently learning and practicing. Projects will be added here as I progress!
 -->
